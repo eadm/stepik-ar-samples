@@ -1,0 +1,501 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 178,
+      "max": [
+        0.44069042801856995,
+        5.2831754684448242,
+        4.4038543701171875
+      ],
+      "min": [
+        -10.573050498962402,
+        -1.889857292175293,
+        -4.4630846977233887
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2136,
+      "componentType": 5126,
+      "count": 178,
+      "max": [
+        0.98000085353851318,
+        0.99603730440139771,
+        0.99979841709136963
+      ],
+      "min": [
+        -0.98895138502120972,
+        -0.99116510152816772,
+        -0.98841971158981323
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 178,
+      "max": [
+        0.98428648710250854,
+        0.70451951026916504,
+        0.97301387786865234,
+        1
+      ],
+      "min": [
+        -0.99870020151138306,
+        -0.99503505229949951,
+        -0.91932046413421631,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 178,
+      "max": [
+        0.99390774965286255,
+        0.97481381893157959
+      ],
+      "min": [
+        0.0062559247016906738,
+        0.0059125423431396484
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 798,
+      "max": [
+        177
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4272,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        8.3601436614990234,
+        9.3426532745361328,
+        1.106542706489563
+      ],
+      "min": [
+        -1.9883379936218262,
+        -1.9045753479003906,
+        -11.125805854797363
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6240,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        0.99753826856613159,
+        0.99956423044204712,
+        0.97962599992752075
+      ],
+      "min": [
+        -0.98993343114852905,
+        -0.98272866010665894,
+        -0.9888153076171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2848,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        0.99379801750183105,
+        0.91910594701766968,
+        0.25693053007125854,
+        1
+      ],
+      "min": [
+        -0.99817651510238647,
+        -0.93626761436462402,
+        -0.86427015066146851,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1424,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        0.98053812980651855,
+        0.87409037351608276
+      ],
+      "min": [
+        0.0059144794940948486,
+        0.0015836060047149658
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3192,
+      "componentType": 5125,
+      "count": 714,
+      "max": [
+        163
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8208,
+      "componentType": 5126,
+      "count": 174,
+      "max": [
+        7.1539831161499023,
+        5.7869958877563477,
+        11.770004272460938
+      ],
+      "min": [
+        -2.653550386428833,
+        -1.8133393526077271,
+        0.14130291342735291
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10296,
+      "componentType": 5126,
+      "count": 174,
+      "max": [
+        0.98771512508392334,
+        0.98534059524536133,
+        0.97896301746368408
+      ],
+      "min": [
+        -0.97814059257507324,
+        -0.97448468208312988,
+        -0.95624363422393799
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 5472,
+      "componentType": 5126,
+      "count": 174,
+      "max": [
+        0.95598500967025757,
+        0.98743212223052979,
+        0.99693721532821655,
+        1
+      ],
+      "min": [
+        -0.97494089603424072,
+        -0.99195069074630737,
+        -0.80841857194900513,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2736,
+      "componentType": 5126,
+      "count": 174,
+      "max": [
+        0.78263753652572632,
+        0.99624335765838623
+      ],
+      "min": [
+        0.2675347626209259,
+        0.010258018970489502
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6048,
+      "componentType": 5125,
+      "count": 726,
+      "max": [
+        173
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "DigitalSouls (https://sketchfab.com/DigitalSouls)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/three-potatoes-c5604d5c4f864330b6d171866ea931e2",
+      "title": "Three Potatoes"
+    },
+    "generator": "Sketchfab-5.43.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8952,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4128,
+      "byteOffset": 8952,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12384,
+      "byteOffset": 13080,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8256,
+      "byteOffset": 25464,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 33720,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/defaultMaterial_normal.jpeg"
+    },
+    {
+      "uri": "textures/defaultMaterial_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/defaultMaterial_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "defaultMaterial",
+      "normalTexture": {
+        "index": 0,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 2,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "potatoe01_defaultMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "potatoe02_defaultMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "potatoe03_defaultMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "potatoes_scan.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "potatoe01"
+    },
+    {
+      "mesh": 0,
+      "name": "potatoe01_defaultMaterial_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "potatoe02"
+    },
+    {
+      "mesh": 1,
+      "name": "potatoe02_defaultMaterial_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "potatoe03"
+    },
+    {
+      "mesh": 2,
+      "name": "potatoe03_defaultMaterial_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
